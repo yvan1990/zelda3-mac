@@ -1,6 +1,7 @@
 # zelda3-mac
 Simple self-contained launcher for snesrev's zelda3
 ————————————————————————————————————————————————————
+
 To get started, compile zelda3 from https://github.com/snesrev/zelda3
 
 After compiling, right-click on the zelda3.app file in this folder.
